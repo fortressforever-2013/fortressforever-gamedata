@@ -76,27 +76,31 @@
 				"windows"	"40"
 				"linux"		"41"
 			}
-		// these no longer exist!!!
-		//	"DispatchKeyValue"
-		//	{
-		//		"windows"	"35"
-		//	}
-		//	"DispatchKeyValueFloat"
-		//	{
-		//		"windows"	"34"
-		//	}
-		//	"DispatchKeyValueVector"
-		//	{
-		//		"windows"	"33"
-		//	}
-		//	"SetEntityModel"
-		//	{
-		//		"windows"	"28"
-		//	}
-		//	"WeaponEquip"
-		//	{
-		//		"windows"	"226"
-		//	}
+			"DispatchKeyValue"
+			{
+				"windows"	"35"
+				"linux"		"34"
+			}
+			"DispatchKeyValueFloat"
+			{
+				"windows"	"34"
+				"linux"		"35"
+			}
+			"DispatchKeyValueVector"
+			{
+				"windows"	"33"
+				"linux"		"36"
+			}
+			"SetEntityModel"
+			{
+				"windows"	"27"
+				"linux"		"27"
+			}
+			"WeaponEquip"
+			{
+				"windows"	"228"
+				"linux"		"229"
+			}
 			"Activate"
 			{
 				"windows"	"37"
@@ -105,7 +109,7 @@
 			"PlayerRunCmd"
 			{
 				"windows"	"428"
-				"linux"		"429
+				"linux"		"429"
 			}
 		}
 		
