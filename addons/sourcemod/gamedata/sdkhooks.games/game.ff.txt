@@ -1,0 +1,125 @@
+"Games"
+{
+	/* Fortress Forever 2.4 */
+	// "FortressForever"
+	"#default"
+	{
+		"Offsets"
+		{
+			// CBaseEntity::EndTouch(CBaseEntity*)
+			"EndTouch"
+			{
+				"windows"	"107"
+				"linux"		"108"
+			}
+			// CBaseEntity::FireBullets(FireBulletsInfo_t const&)
+			"FireBullets"
+			{
+				"windows"	"119"
+				"linux"		"120"
+			}
+			// CBaseEntity::OnTakeDamage(CTakeDamageInfo const&)
+			"OnTakeDamage"
+			{
+				"windows"	"67"
+				"linux"		"68"
+			}
+			// CBasePlayer::PreThink()
+			"PreThink"
+			{
+				"windows"	"341"
+				"linux"		"342"
+			}
+			// CBasePlayer::PostThink()
+			"PostThink"
+			{
+				"windows"	"342"
+				"linux"		"343"
+			}
+			// CBaseEntity::SetTransmit(CCheckTransmitInfo*, bool)
+			"SetTransmit"
+			{
+				"windows"	"22"
+				"linux"		"23"
+			}
+			// CBaseEntity::ShouldCollide(int, int) const
+			"ShouldCollide"
+			{
+				"windows"	"16"
+				"linux"		"17"
+			}
+			// CBaseEntity::Spawn()
+			"Spawn"
+			{
+				"windows"	"24"
+				"linux"		"25"
+			}
+			// CBaseEntity::StartTouch(CBaseEntity*)
+			"StartTouch"
+			{
+				"windows"	"105"
+				"linux"		"106"
+			}
+			// CBaseEntity::Think()
+			"Think"
+			{
+				"windows"	"52"
+				"linux"		"53"
+			}
+			// CBaseEntity::Touch()
+			"Touch"
+			{
+				"windows"	"106"
+				"linux"		"107"
+			}
+			// CBaseEntity::TraceAttack(CTakeDamageInfo const&, Vector const&, CGameTrace*, CDmgAccumulator*)
+			"TraceAttack"
+			{
+				"windows"	"65"
+				"linux"		"66"
+			}
+			// CBaseEntity::Use(CBaseEntity*, CBaseEntity*, USE_TYPE, float)
+			"Use"
+			{
+				"windows"	"104"
+				"linux"		"105"
+			}
+			// CBaseEntity::VPhysicsUpdate(IPhysicsObject*)
+			"VPhysicsUpdate"
+			{
+				"windows"	"166"
+				"linux"		"167"
+			}
+			// CBaseCombatCharacter::Weapon_CanSwitchTo(CBaseCombatWeapon*)
+			"Weapon_CanSwitchTo"
+			{
+				"windows"	"275"
+				"linux"		"276"
+			}
+			// CBaseCombatCharacter::Weapon_CanUse(CBaseCombatWeapon*)
+			"Weapon_CanUse"
+			{
+				"windows"	"269"
+				"linux"		"270"
+			}
+			// CBaseCombatCharacter::Weapon_Drop(CBaseCombatWeapon*, Vector const*, Vector const*)
+			"Weapon_Drop"
+			{
+				"windows"	"272"
+				"linux"		"273"
+			}
+			// CBaseCombatCharacter::Weapon_Equip(CBaseCombatWeapon*)
+			"Weapon_Equip"
+			{
+				"windows"	"270"
+				"linux"		"271"
+			}
+			// CBaseCombatCharacter::Weapon_Switch(CBaseCombatWeapon*, int)
+			"Weapon_Switch"
+			{
+				"windows"	"273"
+				"linux"		"274"
+			}
+		}
+	}
+}
