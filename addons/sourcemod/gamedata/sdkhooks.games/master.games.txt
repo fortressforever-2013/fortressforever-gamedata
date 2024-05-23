@@ -83,7 +83,7 @@
 	
 	"game.ff.txt"
 	{
-		"game"		"fortressforever2013"
+		"game"		"fortressforever"
 	}
 	
 	"game.empires.txt"
